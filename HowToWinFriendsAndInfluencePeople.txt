@@ -96,6 +96,7 @@ Our purpose, therefore, in this revision is to clarify and strengthen the book f
 ですので、こうして改訂版を出す目的は、現代の読書に耐えるよう、本書を明確にし、増補することです。本書の内容に手を加えることはありません。本書には数か所の削除と数か所の現代的な例示を加えたのみで、"変更"してはいません。強気で快活な、カーネギーらしはそのままです。30年代のスラングでさえ残っています。デール・カーネギーは話すように書きました。精力的で熱狂的な、口語体の、くだけた作風です。
 
 # 英語の勉強には向かないってことだな。
+# 訳すときはくだけた口語体を心がけよう。
 
 So his voice still speaks as forcefully as ever, in the book and in his work. Thousands of people all over the world are being trained in Carnegie courses in increasing numbers each year. And other thousands are reading and studying How to Win Friends and lnfluence People and being inspired to use its principles to better their lives. To all of them, we offer this revision in the spirit of the honing and polishing of a finely made tool.
 
@@ -118,11 +119,22 @@ During the first thirty-five years of the twentieth century, the publishing hous
 
 Why, then, did I have the temerity to write another book? And, after I had written it, why should you bother to read it?
 
+ではなぜ、僕が無謀にももう一冊本を書いたのか、そして僕が書き終えたら、読者の皆さんはなぜわざわざ読まされるのか？
+
 Fair questions, both; and I'll try to answer them.
 
+両方とも最もな質問ですね。この質問にお答えしましょう。
+
 I have, since 1912, been conducting educational courses for business and professional men and women in New York. At first, I conducted courses in public speaking only - courses designed to train adults, by actual experience, to think on their feet and express their ideas with more clarity, more effectiveness and more poise, both in business interviews and before groups.
+僕は1912年からずっと、ニューヨークで事業や専門職種にある人のための教育講座を運営しています。最初はスピーチの講座だけをやっていました。大人向けの訓練として構成したこの講座は、面接からスピーチまで対応していたのですが、実際に体験してもらうことで、即興で考えることと、その内容を明確、効果的かつ安定した表現をすることを目的としていました。
+
+# think on one's feet = すぐに決断する
 
 But gradually, as the seasons passed, I realized that as sorely as these adults needed training in effective speaking, they needed still more training in the fine art of getting along with people in everyday business and social contacts.
+
+ですが次第に、講座を重ねるにしたがって、受講者は「使える」話し方の練習が必要であると痛感しました。日々の仕事や人づきあいの上でうまくやる上での、高度な技術を訓練する必要があったのです。
+
+# 受講生が必要としていた訓練のレベルが、講座の最初の目的よりも低かったということか？
 
 I also gradually realized that I was sorely in need of such training myself. As I look back across the years, I am appalled at my own frequent lack of finesse and understanding. How I wish a book such as this had been placed in my hands twenty years ago! What a priceless boon it would have been.
 
