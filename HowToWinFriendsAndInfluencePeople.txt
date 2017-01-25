@@ -146,7 +146,14 @@ Dealing with people is probably the biggest problem you face, especially if you 
 
 Research done a few years ago under the auspices of the Carnegie Foundation for the Advancement of Teaching uncovered a most important and significant fact - a fact later confirmed by additional studies made at the Carnegie Institute of Technology. These investigations revealed that even in such technical lines as engineering, about 15 percent of one's financial success is due to one's technical knowledge and about 85 percent is due to skill in human engineering-to personality and the ability to lead people.
 
+カーネギー教育振興財団 (Carnegie Foundation for the Advancement of Teaching)賛助のもとで数年前に行われた調査は、非常に重大で意義深い事実を明らかにしました。その事実はのちにカーネギー工科大学（Carnegie Institute of Technology）の追加研究によって裏付けられたものです。この調査は、技師のような工業系の職業であっても、金銭的に成功した人の15%は技術知識によるものですが、85%は人間工学のスキル、つまり人柄や指導力によるものであるということを明らかにしたのです。
+
 For many years, I conducted courses each season at the Engineers' Club of Philadelphia, and also courses for the New York Chapter of the American Institute of Electrical Engineers. A total of probably more than fifteen hundred engineers have passed through my classes. They came to me because they had finally realized, after years of observation and experience, that the highest-paid personnel in engineering are frequently not those who know the most about engineering. One can for example, hire mere technical ability in engineering, accountancy, architecture or any other profession at nominal salaries. But the person who has technical knowledge plus the ability to express ideas, to assume leadership, and to arouse enthusiasm among people-that person is headed for higher earning power.
+
+長年にわたり、僕はthe Engineers' Club of Philadelphiaで毎期にわたり講座の指導をしました。それに、the New York Chapter of the American Institute of Electrical Engineersでも講座を教えました。あわせるとおそらく1500人以上のエンジニアが僕の受け持ちになりました。
+
+# the Engineers' Club of Philadelphiaの適切な日本語？
+# the New York Chapter of the American Institute of Electrical Engineersの適切な日本語？
 
 In the heyday of his activity, John D. Rockefeller said that "the ability to deal with people is as purchasable a commodity as sugar or coffee." "And I will pay more for that ability," said John D., "than for any other under the sun."
 
