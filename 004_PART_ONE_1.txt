@@ -77,18 +77,31 @@ John Wanamaker, founder of the stores that bear his name, once confessed: "I lea
 
 ジョン・ワナメイカーは、自身の名を冠した百貨店の創業者であるが、一度こう告白したことがある。「30年も前に、わたしはしかりつけることはばかげているとわかったよ。神が知性の賜物を公平に分配するおつもりがないらしいという事実に思い悩むまでもなく、わたしは自分の限界を克服するのにじゅうぶんなトラブルを抱ているんだ。」
 
-
 # ジョン・ワナメーカーはペンシルバニア州フィラデルフィア出身の百貨店経営者、宗教指導者、政治家。「マーケティングにおける先駆者」ともいわれる。アメリカで郵政長官も務めた。
 
 Wanamaker learned this lesson early, but I personally had to blunder through this old world for a third of a century before it even began to dawn upon me that ninety-nine times out of a hundred, people don't criticize themselves for anything, no matter how wrong it may be.
 
+ワナメーカーは早くからこのことに気づいたが、わたし個人は世の中を30年もへまをしてまわるはめになった。それから100人中99人の人が、どんなに間違っていようとも自分自身を批判しないのだということがうっすらとわかってきた。
+
 Criticism is futile because it puts a person on the defensive and usually makes him strive to justify himself. Criticism is dangerous, because it wounds a person's precious pride, hurts his sense of importance, and arouses resentment.
+
+批判は役に立たない。人を身構えさせるし、更にたいていその人は自分を正当化しようと批判に対抗する。批判は危険でもある。なぜなら大切なプライドを傷つけ、重要性を害し、そして恨みを増幅させる。
 
 B. F. Skinner, the world-famous psychologist, proved through his experiments that an animal rewarded for good behavior will learn much more rapidly and retain what it learns far more effectively than an animal punished for bad behavior. Later studies have shown that the same applies to humans. By criticizing, we do not make lasting changes and often incur resentment.
 
+世界的に有名な心理学者のバラス・スキナーは、自身の実験で、良い行動を褒められた動物は、悪い行動を叱られた動物よりもより速く学び、学んだことをはるかに効果的に覚えていることを証明した。のちの研究で人間にも同様に当てはまることが明らかになった。批判では永久に変わることはできず、しばしば恨みをも生むのだ。
+
+# バラス・フレデリック・スキナーはアメリカ合衆国の心理学者で行動分析学の創始者。
+
 Hans Selye, another great psychologist, said, "As much as we thirst for approval, we dread condemnation,"
 
+ハンス・セリエは別の偉大な心理学者だが、こう言っている。「人は承認を渇望すると、同じだけ非難を恐れる。」
+
+# ハンス・セリエは、ハンガリー系カナダ人の生理学者。ストレス学説を唱え、ストレッサーの生体反応を明らかにした。
+
 The resentment that criticism engenders can demoralize employees, family members and friends, and still not correct the situation that has been condemned.
+
+批判が生み出した恨みは、従業員、家族や友人のやる気をくじく可能性があり、それなのに非難されたという状況を訂正することはできない。
 
 George B. Johnston of Enid, Oklahoma, is the safety coordinator for an engineering company, One of his re-sponsibilities is to see that employees wear their hard hats whenever they are on the job in the field. He reported that whenever he came across workers who were not wearing hard hats, he would tell them with a lot of authority of the regulation and that they must comply. As a result he would get sullen acceptance, and often
 after he left, the workers would remove the hats.
