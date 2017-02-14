@@ -137,7 +137,7 @@ nothing like it had ever happened before in American public life. Here are the b
 それから、ティーポット・ドーム事件も例としてあげられる。1920年代初頭、新聞は怒りとともにこの事件を報道し続けた。この事件は国家を揺るがした！生きている人の記憶の限り、アメリカ政財界史上このようなことは起こったことがなかったのだ。事件のあらましは以下のようになる：ハーディング大統領内閣の内務長官、アルバート・B・フォールは、エルク・ヒル油田とティーポット・ドーム油田に埋蔵されている政府の石油の賃貸契約を任されていた。この石油は将来海軍が使用できるように確保し、備蓄しているものだ。フォール長官は競争入札を行ったのだろうか。いいえみなさん、長官はこのおいしい契約をまるまる、友人のエドワード・L・ドヒニーに手渡したのだ。そしてドヒニーは何をしたのかというと、フォール長官に「賃貸料」として10万ドルを渡したのだ。そして、強引にもフォール長官は、アメリカ海兵隊をこの地域に入らせ、競合他社を追い出しにかかった。この競合会社に隣接した源泉がエルク・ヒル油田から埋蔵石油を徐々に奪っていた。銃と銃剣とを突き付けられて追い出されたこれらの企業が法廷に駆け込み、ティーポット・ドーム事件として世間に暴露したわけだ。 汚職の腐敗臭がのぼり、ハーディイング陣営をだめにして、国家全体を唾棄すべきものになり下げ、共和党崩壊の恐怖にさらした。そして、アルバート・B・フォールは刑務所の檻の中に送られた。
 
 # No sir.が唐突に感じる。sirは読者なのか？この本全体的に講演風なのか？
-# ティーポット・Sドーム事件は1921年から1924年にかけて、ウォレン・ハーディング大統領政権下のアメリカ合衆国で起きた汚職事件である。
+# ティーポット・ドーム事件は1921年から1924年にかけて、ウォレン・ハーディング大統領政権下のアメリカ合衆国で起きた汚職事件である。
 # アルバート・ベーコン・フォールはニューメキシコ選出のアメリカ合衆国上院議員でウォレン・ハーディング大統領内閣の内務長官。ティーポット・ドーム事件への関与で彼の名は悪名高いものになった。
 。
 # 1920～30年代の話がそのまま通用するのが不思議。1945年の敗戦で一旦歴史が区切られてしまった日本との違い。
@@ -145,7 +145,14 @@ nothing like it had ever happened before in American public life. Here are the b
 
 Fall was condemned viciously - condemned as few men in public life have ever been. Did he repent? Never! Years later Herbert Hoover intimated in a public speech that President Harding's death had been due to mental anxiety and worry because a friend had betrayed him. When Mrs. Fall heard that, she sprang from her chair, she wept, she shook her fists at fate and screamed: "What! Harding betrayed by Fall? No! My husband never betrayed anyone. This whole house full of gold would not tempt my husband to do wrong. He is the one who has been betrayed and led to the slaughter and crucified."
 
+フォールの悪事は糾弾された。公人としてきわめてまれなほどに糾弾された。フォールは後悔しただろうか？していない！数年後、第31代大統領のハーバート・フーヴァーは、ハーディング大統領の死が、友人が彼を裏切ったことによる精神的な不安や心配が原因であったと公のスピーチで言った。フォール夫人がこのことを聞くと椅子から飛び上がった。夫人は泣き、運命にこぶしを振り、叫んだ。「なんですって！ハーディングがフォールに裏切られた？とんでもない！わたしの夫は誰も裏切らなかった。我が家はお金がたくさんあるし夫に間違ったことなどさせません。夫は裏切られた側だし、虐殺され、はりつけにされたんですよ」
+
+# Herbert Hoover ハーバート・クラーク・フーヴァーは、アメリカ合衆国の第31代大統領。
+# 悪いのは奥さんか・・・。
+
 There you are; human nature in action, wrongdoers, blaming everybody but themselves. We are all like that. So when you and I are tempted to criticize someone tomorrow, let's remember Al Capone, "Two Gun" Crowley and Albert Fall. Let's realize that criticisms are like homing pigeons. They always return home. Let's realize that the person we are going to correct and condemn will probably justify himself or herself, and condemn us in return; or, like the gentle Taft, will say: "I don't see how I could have done any differently from what I have."
+
+# この出だし、やはりしゃべっているように訳したほうが良いのかも。
 
 On the morning of April 15, 1865, Abraham Lincoln lay dying in a hall bedroom of a cheap lodging house directly across the street from Ford's Theater, where John Wilkes Booth had shot him. Lincoln's long body lay stretched diagonally across a sagging bed that was too short for him. A cheap reproduction of Rosa Bonheur's famous painting The Horse Fair hung above the bed, and a dismal gas jet flickered yellow light.
 
