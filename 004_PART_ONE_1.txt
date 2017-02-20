@@ -152,7 +152,8 @@ Fall was condemned viciously - condemned as few men in public life have ever bee
 
 There you are; human nature in action, wrongdoers, blaming everybody but themselves. We are all like that. So when you and I are tempted to criticize someone tomorrow, let's remember Al Capone, "Two Gun" Crowley and Albert Fall. Let's realize that criticisms are like homing pigeons. They always return home. Let's realize that the person we are going to correct and condemn will probably justify himself or herself, and condemn us in return; or, like the gentle Taft, will say: "I don't see how I could have done any differently from what I have."
 
-また始まった。人間の行動の本質だ。不届き者は周囲を非難してまわるが自分自身は決して非難しない。我々は皆そうなのだ。だから、あなたも私も、明日誰かを非難するつもりなら、アル・カポネを、"二丁拳銃"クラウリーを、そしてアルバート・フォールを思い出すことだ。批判は帰巣する鳩のようなものだと認識すべきだ。批判はいつも帰ってくる。我々が訂正し、批判する相手は、おそらくその相手を正すだろうが、お返しに自分たち自身も批判する。あるいは、優しいタフト氏のように、「自分のやり方以外では、どうすればいいかわからなかったんだ」と言ってくるだろう。
+また始まった。人間の行動の本質だ。不届き者は周囲を非難してまわるが自分自身は決して非難しない。我々は皆そうなのだ。だから、あなたも私も、明日誰かを非難するつもりなら、アル・カポネを、"二丁拳銃"クラウリーを、そしてアルバート・フォールを思い出すことだ。批判は帰巣する鳩のようなものだと認識すべきだ。批判はいつも戻ってくる。我々が訂正し、批判する相手は、自分を正当化し、更にこちらを批判し返す。あるいは、優しいタフト氏のように、「自分のやり方以外では、どうすればいいかわからなかったんだ」と言ってくるだろう。
+
 # この出だし、やはりしゃべっているように訳したほうが良いのかも。
 
 On the morning of April 15, 1865, Abraham Lincoln lay dying in a hall bedroom of a cheap lodging house directly across the street from Ford's Theater, where John Wilkes Booth had shot him. Lincoln's long body lay stretched diagonally across a sagging bed that was too short for him. A cheap reproduction of Rosa Bonheur's famous painting The Horse Fair hung above the bed, and a dismal gas jet flickered yellow light.
@@ -219,11 +220,11 @@ In bitter disappointment, Lincoln sat down and wrote Meade this letter. And reme
 
 My dear General,
 
-わたしの親愛なる将軍
+親愛なる将軍
 
 I do not believe you appreciate the magnitude of the misfortune involved in Lee's escape. He was within our easy grasp, and to have closed upon him would, in connection With our other late successes, have ended the war. As it is, the war will be prolonged indefinitely. If you could not safely attack Lee last Monday, how can you possibly do so south of the river, when you can take with you very few- no more than two-thirds of the force you then had in hand? It would be unreasonable to expect and I do not expect that you can now effect much. Your golden opportunity is gone, and I am distressed immeasurably because of it.
 
-リー将軍の逃亡がどれほど重大な不運をもたらすか、あなたが理解しているとは思えません。リー将軍は我々の手の届くところにおり、追撃さえすれば、我々の直近の成功と相まって、戦争を終結させることができたのです。このようなことになると、戦争はいつまでも長引きます。前の月曜に貴殿がリー将軍を有利に叩けなかったのに、なぜあの河川の南ではできたのでしょうか。貴殿はその時手持ちの軍の2/3しか動かせなかったというのに。これでは期待するのは不合理というものなので、わたしはあなたの活躍をさして期待しません。貴殿の黄金の機会はなくなりました。わたしはこの件で非常に困惑しています。
+リー将軍の逃亡がどれほど重大な不運を引き起こすか、貴殿が理解なさっているとは思えません。リー将軍は我々の手の届くところにおり、追撃さえすれば、我々の直近の成功と相まって、戦争を終結させることができたのです。このようなことになると、戦争はいつまでも長引きます。前の月曜に貴殿がリー将軍を安全に叩けなかったなら、河を渡って南に逃れてしまったあとではもはや不可能でしょう。このとき貴殿は手持ちの軍のたった2/3以下しか動かせなかったのですから。これでは期待するのは不合理というものなので、わたしは貴殿の活躍をさして期待しません。貴殿の黄金の機会はなくなりました。わたしはこの件で非常に困惑しています。
 
 What do you suppose Meade did when he read the letter?
 
@@ -235,15 +236,23 @@ Meade never saw that letter. Lincoln never mailed it. It was found among his pap
 
 My guess is - and this is only a guess - that after writing that letter, Lincoln looked out of the window and said to himself, "Just a minute. Maybe I ought not to be so hasty. It is easy enough for me to sit here in the quiet of the White House and order Meade to attack; but if I had been up at Gettysburg, and if I had seen as much blood as Meade has seen during the last week, and if my ears had been pierced with the screams and shrieks of the wounded and dying, maybe I wouldn't be so anxious to attack either. If I had Meade's timid temperament, perhaps I would have done just what he had done. Anyhow, it is water under the bridge now. If I send this letter, it will relieve my feelings, but it will make Meade try to justify himself. It will make him condemn me. It will arouse hard feelings, impair all his further usefulness as a commander, and perhaps force him to resign from the army."
 
-わたしの推測では、単なる推測ですが、この手紙を書いてからリンカーンは窓の外を眺め、こう独り言を言ったのだと思います。「ちょっと待てよ。そんなに急ぐことはないかもしれない。静かなホワイトハウスに居ながらにしてミードに攻撃を命じるのは簡単なことだ。しかしゲティスバーグにいたらどうだろう。そして一週間の間ミードと同じくらいの流血を目にし、死にゆく負傷兵の泣き叫ぶ声が耳が刺される思いをしていたら。わたしも攻撃などしたいとは思わないかもしれない。
+わたしの推測では、単なる推測ですが、この手紙を書いてからリンカーンは窓の外を眺め、こう独り言を言ったのだと思います。「ちょっと待てよ。そんなに急ぐことはないかもしれない。静かなホワイトハウスに居ながらにしてミードに攻撃を命じるのは簡単なことだ。しかしゲティスバーグにいたらどうだろう。そして一週間の間ミードと同じくらいの流血を目にし、死にゆく負傷兵の泣き叫ぶ声が耳が刺さっていたら。わたしも攻撃などしたいとは思わないかもしれない。わたしがミードのような臆病な気質だったら、おそらくぴったり同じ行動をとっただろう。どのみち今や取り返しがつかない。この手紙を送れば、わたしの気は済むだろうが、ミードは自分を正当化し、わたしを批判するだろう。そうなれば悪感情を生み、ミードのこの先の司令官としての有用性を全て失って、おそらく彼は軍を辞職せざるをえなくなる。」
 
 So, as I have already said, Lincoln put the letter aside, for he had learned by bitter experience that sharp criticisms and rebukes almost invariably end in futility.
 
+なので、わたしがいつも言うように、リンカーンは手紙を脇に置いたのだ。その代わり、苦い経験によってリンカーンは教訓を得た。鋭い批判や強い失跡はほとんど必ず無用に終わるのだということを。
+
 Theodore Roosevelt said that when he, as President, was confronted with a perplexing problem, he used to lean back and look up at a large painting of Lincoln which hung above his desk in the White House and ask himself, "What would Lincoln do if he were in my shoes? How would he solve this problem?"
+
+セオドア・ルーズベルトは、大統領としてややこしい問題に直面すると、ホワイトハウスの椅子にもたれ、デスクの上にかけてあるリンカーンの絵を見上げて、自分に問いかけたという。「リンカーンがわたしの立場ならどうするだろうか。この問題をどう解決するだろうか」と。
 
 The next time we are tempted to admonish somebody, /let's pull a five-dollar bill out of our pocket, look at Lincoln's picture on the bill, and ask. "How would Lincoln handle this problem if he had it?"
 
+今度わたしたちが誰かを叱りたくなったら、5ドル札をポケットから引っ張り出して、札のリンカーンを見つめ、そして尋ねよう。「リンカーンがこの問題にあたるなら、どうするだろうか？」
+
 Mark Twain lost his temper occasionally and wrote letters that turned the Paper brown. For example, he once wrote to a man who had aroused his ire: "The thing for you is a burial permit. You have only to speak and I will see that you get it." On another occasion he wrote to an editor about a proofreader's attempts to "improve my spelling and punctuation." He ordered: "Set the matter according to my copy hereafter and see that the proofreader retains his suggestions in the mush of his decayed brain."
+
+マーク・トウェインたまにカッとなり、紙が茶色くなるほど手紙を書いた。たとえば、彼は一度、ある男に激怒してこんな手紙を書いた。「あなたにふさわしいものは埋葬許可書だ。あなたが口をきくだけで発行されることになるだろう」。別の時には、ある編集者に、校正者の「僕の綴りと句読点表記を向上させる」試みについて、こんな注文をつけている。
 
 The writing of these stinging letters made Mark Twain feel better. They allowed him to blow off steam, and the letters didn't do any real harm, because Mark's wife secretly lifted them out of the mail. They were never sent.
 
