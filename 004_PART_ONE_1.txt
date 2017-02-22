@@ -175,7 +175,7 @@ What was the secret of Lincoln's success in dealing with people? I studied the l
 
 Even after Lincoln had become a practicing lawyer in Springfield, Illinois, he attacked his opponents openly in letters published in the newspapers. But he did this just once too often.
 
-リンカーンはイリノイ州スプリングフィールドで弁護士として開業したあとでさえ、公然と反対派を攻撃する手記を新聞に載せた。よせばいいのにとはいえ、やったのは1回だけだった。
+リンカーンはイリノイ州スプリングフィールドで弁護士として開業したあとでさえ、公然と反対派を攻撃する手記を新聞に載せた。しかし1回だけやりすぎてしまった。
 
 In the autumn of 1842 he ridiculed a vain, pugnacious politician by the name of James Shields. Lincoln lamned him through an anonymous letter published in Springfield Journal. The town roared with laughter. Shields, sensitive and proud, boiled with indignation. He found out who wrote the letter, leaped on his horse, started after Lincoln, and challenged him to fight a duel. Lincoln didn't want to fight. He was opposed to dueling, but he couldn't get out of it and save his honor. He was given the choice of weapons. Since he had very long arms, he chose cavalry broadswords and took lessons in sword fighting from a West Point graduate; and, on the appointed day, he and Shields met on a sandbar in the Mississippi River, prepared to fight to the death; but, at the last minute, their seconds interrupted and stopped the duel.
 
@@ -240,7 +240,7 @@ My guess is - and this is only a guess - that after writing that letter, Lincoln
 
 So, as I have already said, Lincoln put the letter aside, for he had learned by bitter experience that sharp criticisms and rebukes almost invariably end in futility.
 
-なので、わたしがいつも言うように、リンカーンは手紙を脇に置いたのだ。その代わり、苦い経験によってリンカーンは教訓を得た。鋭い批判や強い失跡はほとんど必ず無用に終わるのだということを。
+なので、わたしがいつも言うように、リンカーンは手紙を脇に置いたのだ。その代わり、苦い経験によってリンカーンは教訓を得た。鋭い批判や強い叱責はほとんど必ず無用に終わるのだということを。
 
 Theodore Roosevelt said that when he, as President, was confronted with a perplexing problem, he used to lean back and look up at a large painting of Lincoln which hung above his desk in the White House and ask himself, "What would Lincoln do if he were in my shoes? How would he solve this problem?"
 
@@ -252,19 +252,35 @@ The next time we are tempted to admonish somebody, /let's pull a five-dollar bil
 
 Mark Twain lost his temper occasionally and wrote letters that turned the Paper brown. For example, he once wrote to a man who had aroused his ire: "The thing for you is a burial permit. You have only to speak and I will see that you get it." On another occasion he wrote to an editor about a proofreader's attempts to "improve my spelling and punctuation." He ordered: "Set the matter according to my copy hereafter and see that the proofreader retains his suggestions in the mush of his decayed brain."
 
-マーク・トウェインたまにカッとなり、紙が茶色くなるほど手紙を書いた。たとえば、彼は一度、ある男に激怒してこんな手紙を書いた。「あなたにふさわしいものは埋葬許可書だ。あなたが口をきくだけで発行されることになるだろう」。別の時には、ある編集者に、校正者の「僕の綴りと句読点表記を向上させる」試みについて、こんな注文をつけている。
+マーク・トウェインたまにカッとなり、紙が茶色くなるほど手紙を書いた。たとえば、彼は一度、ある男に激怒してこんな手紙を書いた。「あなたにふさわしいものは埋葬許可書だ。あなたが口をきくだけで発行されることになるだろう」。別の時には、校正者がマーク・トウェインの「綴りと句読点表記を向上」させようとしたので、編集者にこんな注文をつけている。「今後は課題を僕の原稿に応じて設定して、あの校正者がそのぐちゃぐちゃに腐った脳みそに自分の提案した内容を覚えておけるのか見届けるように」。
 
 The writing of these stinging letters made Mark Twain feel better. They allowed him to blow off steam, and the letters didn't do any real harm, because Mark's wife secretly lifted them out of the mail. They were never sent.
 
+このような辛辣な手紙を書くことで、マーク・トウェインは気分を良くしていた。周囲の人は彼がこのようにストレスを発散することを許していたし、このような手紙が深刻な事態は引き起こさなかった。なぜかというと、トゥエイン夫人がこっそり手紙を抜いていて、実際にはひとつも配達されなかったからだ。
+
 Do you know someone you would like to change and regulate and improve? Good! That is fine. I am all in favor of it, But why not begin on yourself? From a purely selfish standpoint, that is a lot more profitable than trying to improve others - yes, and a lot less dangerous. "Don't complain about the snow on your neighbor's roof," said Confucius, "when your own doorstep is unclean."
+
+あなたの知人の中に、変化させ、管理して能力を伸ばしてやりたいと思う人がいるだろうか。素晴らしい！良いことだ。大いに賛成する。ところでそれをあなた自身から始めないのはなぜだろうか。個人的な見解ではあるが、他人を伸ばすよりも自分を伸ばすほうがはるかにためになるのだ。そう、それにはるかに危険が少ない。「各人自ら門前の雪を掃くも、他人の瓦上の霜を管する莫かれ」と孔子は言った。
+
+# それは孔子の言葉でない可能性があります。以下のURLによれば、孔子の言葉とされるものは、「各人自掃門前雪，莫管他人瓦上霜（各人自ら門前の雪を掃くも、他人の瓦上の霜を管する莫かれ）」と推測でき、これは明代の張風翼という人の言葉だということです。 http://www.italki.com/entry/281862
 
 When I was still young and trying hard to impress people, I wrote a foolish letter to Richard Harding Davis, an author who once loomed large on the literary horizon of America. I was preparing a magazine article about authors, and I asked Davis to tell me about his method of work. A few weeks earlier, I had received a letter from someone with this notation at the bottom: "Dictated but not read." I was quite impressed. I felt that the writer must be very big and busy and important. I wasn't the slightest bit busy, but I was eager to make an impression on Richard Harding Davis, so I ended my short note with the words: "Dictated but not read."
 
+わたしがまだ若くて、人に良い印象を与えようとがんばっていた時、アメリカ文学界で一時重大な位置を占めた作家のリチャード・ハーディングス・デイビスに、ばかのような手紙を書いた。わたしは作家についての雑誌記事の下調べをしていたので、デイビス氏の仕事のやりかたを教えてほしいとお願いしたのだ。この数週間前に、わたしはある人から手紙を受け取ったのだが、その手紙の下にはこんな注意書きがあった。「口述筆記による」。わたしはとても感銘を受けた。物書きというものは偉大で忙しく、そして尊大でなければいけないと感じた。わたしはその時ちっとも忙しくなかったが、リチャード・ハーディングス・デイビスに強く印象付けたいと思ったものだから、わたしも自分の手紙にメモをつけた。「口述筆記による」と。
+
 He never troubled to answer the letter. He simply returned it to me with this scribbled across the bottom: "Your bad manners are exceeded only by your bad manners." True, I had blundered, and perhaps I deserved this rebuke. But, being human, I resented it. I resented it so sharply that when I read of the death of Richard Harding Davis ten years later, the one thought that still persisted in my mind - I am ashamed to admit - was the hurt he had given me.
+
+デイビス氏からは問題なく返信をいただけた。氏は最後にこんな走り書きをよこした。「あなたが無作法にするとそれだけ無作法さが上回る」と。まったくわたしは大失敗した。当然の叱責を受けたまでだ。しかし、わたしも人間であるから、非常に不快になり、デイビス氏の訃報を10年後に知った時でさえも、まだ私の心にこびりついていたたった一つの思いは、認めるのも恥ずかしいことではあるが、氏はわたしを傷つけたという思いだった。
 
 If you and I want to stir up a resentment tomorrow that may rankle across the decades and endure until death, just let us indulge in a little stinging criticism- no matter how certain we are that it is justified.
 
+皆さんも今後、10年越しにつのらせて死ぬまで耐えるであろう恨み言をかきたてたかったら、一度小さく痛烈な批判をしてみることだ。それがどれだけ確かで理にかなっているかは関係がない。
+
+# you and Iが恨まれる？
+
 When dealing with people, let us remember we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity.
+
+人と付き合う時、理屈の通る生き物とやっていっているのではないと覚えておかないといけない。感情の生き物
 
 Bitter criticism caused the sensitive Thomas Hardy, one of the finest novelists ever to enrich English literature, to give up forever the writing of fiction. Criticism drove Thomas Chatterton, the English poet, to suicide.
 
