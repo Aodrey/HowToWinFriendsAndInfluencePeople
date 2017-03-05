@@ -49,11 +49,11 @@ What do you want? Not many things, but the few that you do wish, you crave with 
 
 Almost all these wants are usually gratified-all except one. But there is one longing - almost as deep, almost as imperious, as the desire for food or sleep - which is seldom gratified. It is what Freud calls "the desire to be great." It is what Dewey calls the "desire to be important."
 
-これらの要求のほとんどは、通常満足させられます。ただ一つは例外です。この中のひとつは、食や睡眠への要求と同じくらい深く、避けることのできないものだというのに、めったに満足しません。それが、フロイドの言う「偉大になりたいという欲求」であり、デューイの言う「重要人物になりたいという要求」です。
+これらの欲求のほとんどは、通常満足させられます。ただ一つは例外です。この中のひとつは、食や睡眠への欲求と同じくらい深く、避けることのできないものだというのに、めったに満足しません。それが、フロイドの言う「偉大になりたいという欲求」であり、デューイの言う「重要人物になりたいという欲求」です。
 
 Lincoln once began a letter saying: "Everybody likes a compliment." William James said: "The deepest principle in human nature is the craving to be appreciated." He didn't speak, mind you, of the "wish" or the "desire" or the "longing" to be appreciated. He said the "craving" to be appreciated.
 
-リンカーンは一度、手紙の書き出しをこんな風にしました。「人はみな褒め言葉が大好きだ」。ウィリアム・ジェームズは言いました。「人間本来のもっとも深い本質は、評価されたいという切望である」。いいですか、氏は評価されることを「望む」とか「要求する」とか「願う」などとは言っていません。評価されることを「切望する」と言ったんです。
+リンカーンは一度、手紙の書き出しをこんな風にしました。「人はみな褒め言葉が大好きだ」。ウィリアム・ジェームズは言いました。「人間本来のもっとも深い本質は、評価されたいという切望である」。いいですか、氏は評価されることを「望む」とか「欲求する」とか「願う」などとは言っていません。評価されることを「切望する」と言ったんです。
 # ウィリアム・ジェームズは、アメリカ合衆国の哲学者、心理学者である。意識の流れの理論を提唱し、ジェイムズ・ジョイス『ユリシーズ』など、アメリカ文学にも影響を与えた。パースやデューイと並ぶプラグマティストの代表として知られている。
 
 Here is a gnawing and unfaltering human hunger, and the rare individual who honestly satisfies this heart hunger will hold people in the palm of his or her hand and "even the undertaker will be sorry when he dies."
@@ -63,7 +63,7 @@ Here is a gnawing and unfaltering human hunger, and the rare individual who hone
 The desire for a feeling of importance is one of the chief distinguishing differences between mankind and
 the animals. To illustrate: When I was a farm boy out in Missouri, my father bred fine Duroc-Jersey hogs and . pedigreed white - faced cattle. We used to exhibit our hogs and white-faced cattle at the country fairs and live-stock shows throughout the Middle West. We won first prizes by the score. My father pinned his blue ribbons on a sheet of white muslin, and when friends or visitors came to the house, he would get out the long sheet of muslin. He would hold one end and I would hold the other while he exhibited the blue ribbons.
 
-重要な存在であると感じたいという欲求は、人間と動物とを区別する大きな差異の一つです。例を出しましょう。わたしがミズーリ州の農園でほんの少年だった頃、父は立派なデュロック・ジャージー種の豚と、純種の白い顔の牛を飼っていた。うちではこの豚と牛とを、アメリカ中西部のあらゆる地方品評会と家畜展示会に出品することにしており、数十もの一等賞を取った。父は一等賞のリボンを白いモスリン生地に留めた。そして友人やお客が訪問すると、この長いモスリン生地を出してきたものだ。父が生地の片方の端を持ち、僕が反対側を持って、このリボンを誇らしげに見せた。
+重要な存在であると感じたいという欲求は、人間と動物とを区別する大きな差異の一つです。例を出しましょう。わたしがミズーリ州の農園でほんの少年だった頃、父は立派なデュロック・ジャージー種の豚と、純種の白い顔の牛を飼っていました。うちではこの豚と牛とを、アメリカ中西部のあらゆる地方品評会と家畜展示会に出品することにしており、数十もの一等賞を取りました。父は一等賞の青いリボンを白いモスリン生地に留めました。そして友人やお客が訪問すると、この長いモスリン生地を出してきたものです。父が生地の片方の端を持ち、僕が反対側を持って、このリボンを誇らしげに見せたのです。
 
 The hogs didn't care about the ribbons they had won. But Father did. These prizes gave him a feeling of importance.
 
@@ -71,11 +71,24 @@ The hogs didn't care about the ribbons they had won. But Father did. These prize
 
 If our ancestors hadn't had this flaming urge for a feeling of importance, civilization would have been impossible. Without it, we should have been just about like animals.
 
+もし僕たちの先祖が、重要な存在であると感じたい、燃えるような欲求がなければ、文明化は不可能だったでしょう。この欲求なくしては、僕たちは単なる動物のような存在に甘んじることになります。
+
 It was this desire for a feeling of importance that led an uneducated, poverty-stricken grocery clerk to study some law books he found in the bottom of a barrel of household plunder that he had bought for fifty cents. You have probably heard of this grocery clerk. His name was Lincoln.
+
+ある無学の、貧困にあえぐ雑貨屋店員が、不法にやりとりされている家庭のガラクタを50セントで入手し、その中から何冊かの法律書を見つけ出してきて勉強をしました。この勉強に駆り立てたのが、ほかでもない「重要な存在でありたいという欲求」でした。あなたはおそらくこの店員さんの名前を聞いたことがあります。彼の名はリンカーンです。
+
+# https://forum.wordreference.com/threads/household-plunder.1719172/ "Plunder" usually means goods taken illegally (often from some premises, including, for example a tomb): looted in other words. However, just as "loot" may be used as slang for any money (not just stolen money), plunder here probably just means goods taken from a house legally, for example, goods from a house clearance sale after the death of the owner, and sold on.
 
 It was this desire for a feeling of importance that inspired Dickens to write his immortal novels. This desire inspired Sir Christoper Wren to design his symphonies in stone. This desire made Rockefeller amass millions that he never spent! And this same desire made the richest family in your town build a house far too large for its requirements.
 
+ディケンズが不朽の小説を書くにあたり影響したのが、ほかでもない「重要な存在でありたいという欲求」でした。建築家クリストファー・レンが石の交響曲たるそのデザインにも影響しました。ロックフェラーが使い切れないほどの富を集めたのもこの欲求です！そして同じ欲求で、みなさんの町一番の金持ち一家がそんなに必要なかろうというほど大きい家を建てたのです。
+
+# サー・クリストファー・マイケル・レン（Sir Christopher Michael Wren, 1632年10月20日 - 1723年2月25日）はイギリスの建築家、天文学者。
+# ジョン・デイヴィソン・ロックフェラー・シニアは、アメリカ合衆国の実業家、慈善家。
+
 This desire makes you want to wear the latest styles, drive the latest cars, and talk about your brilliant children.
+
+この欲求で、みなさんも流行の服を着たくなるし、一番新しい車を運転したくなるし、自分の子がどんなにかわいいか話してまわりたくもなるのです。
 
 It is this desire that lures many boys and girls into joining gangs and engaging in criminal activities. The average young criminal, according to E. P. Mulrooney, onetime police commissioner of New York, is filled with ego, and his first request after arrest is for those lurid newspapers that make him out a hero. The disagreeable prospect of serving time seems remote so long as he can gloat over his likeness sharing space with pictures of sports figures, movie and TV stars and politicians.
 
